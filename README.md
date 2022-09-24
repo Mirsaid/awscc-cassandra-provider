@@ -1,4 +1,4 @@
-AWS Cloud Control Provider Usage
+awscc provider usage, provisioning cassandra
 
 Which services I used?:
 
